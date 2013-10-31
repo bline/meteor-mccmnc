@@ -1,0 +1,3 @@
+[submodule "mccmnc"]
+	path = mccmnc
+	url = https://github.com/jhiver/mccmnc
